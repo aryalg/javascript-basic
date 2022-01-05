@@ -1,5 +1,10 @@
-let firstNamePerson = 10;
-firstNamePerson = 70;
+let firstNamePerson = "bikram";
+firstNamePerson = "bikramv2";
+
+console.log(firstNamePerson);
+
+// console.log("Hello MERN Class");
+
 // console.log(firstNamePerson);
 // firstNamePerson="Nepal";
 //let first_name_person= "Achiever";
@@ -30,4 +35,4 @@ firstNamePerson = 70;
 //let name2 = "Bitpoint";
 
 // console.log('Hello World');
-console.log(firstNamePerson);
+// console.log(firstNamePerson);
